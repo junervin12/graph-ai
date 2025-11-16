@@ -58,7 +58,7 @@ These metrics indicate **strong convergence**, **high stability**, and **excelle
 ## 🚀 Running the Project Locally
 
 ```bash
-git clone [https://github.com/junervin12/graph-ai](https://github.com/junervin12/graph-ai)
+git clone https://github.com/junervin12/graph-ai
 cd graph-ai
 ```
 
