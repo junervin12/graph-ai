@@ -18,8 +18,7 @@
 
 ## 📌 Overview
 
-**GraphAI** is a deep learning–powered application that performs  
-**real-time segmentation of graphene layers** from optical microscope images using the **YOLO11-seg** architecture.
+**GraphAI** is a deep learning–powered application that performs **real-time segmentation of graphene layers** from optical microscope images using the **YOLO11-seg** architecture.
 
 The system integrates:
 
